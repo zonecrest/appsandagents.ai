@@ -1,9 +1,9 @@
 {
   "font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
-  "primary1": "#1D3B60",
-  "primary2": "#34495e", 
-  "background": "#FCF7EF",
-  "highlight": "#601d38",
-  "siteTitle": "Accelerating your Success",
+  "primary1": "#0B1221", 
+  "primary2": "#2563EB", 
+  "background": "#F3F4F6",
+  "highlight": "#06B6D4",
+  "siteTitle": "Thriving in the Age of AI",
   "logoImage": "images/80x80logo.png"
 }

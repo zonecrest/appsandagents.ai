@@ -1,30 +1,44 @@
 ---
 layout: home.njk
-title: "Great Leaders See What Others Miss"
-description: "Join the club - trusted advisor with 50 years experience from shop floor to C-suite"
+title: "AI Is Reshaping Work – But You Still Have the Power"
+description: "From uncertainty to opportunity — take the first confident step into the future of work"
 ---
 
-### Great leaders 
-# See What Others Miss 
-### Don't be one of those who fail
+### Feeling Uncertain About the Future?  
+# You're Not Alone – And You're Not Powerless  
+### Discover a Smarter Way to Move Forward  
 
-You have a great vision for your business, and are already on your way to being there. As you start to imagine how it will feel when you achieve your goal, you begin to notice how quickly things become possible when clarity emerges.
+You’ve probably heard it already: AI is changing everything. Whole professions are evolving, and many people are quietly wondering whether their skills will still be relevant in five years—maybe even five months.
+
+That’s a scary place to be.
+
+But here’s the truth: the people who thrive in times of rapid change aren’t necessarily the most technical or the most connected. They’re the ones who know how to adapt early—who spot new opportunities while others are frozen by fear.
+
+You’ve already taken the first step by looking into what’s possible. Now it’s time to go further.
 
 ![Business Success](images/guiding_to_greatness.png)
 
-## Easier than you might think
+## You Don’t Need to Navigate This Alone  
 
-Sometimes what you need most is someone who truly gets it - someone who's walked the path from the ground up and can sit alongside you to explore what's really possible. Not another consultant with theories, but a trusted advisor who understands the weight of decisions you carry and the vision that drives you. 
+The future belongs to those who are willing to see it clearly.
 
-Together, we can examine your business with complete confidentiality, spotting the connections and opportunities that become obvious when you have the right perspective. It's about having a safe space to think through challenges with someone who's been there, made those decisions, and learned what actually works in the real world.
+You don't need to become an AI expert overnight. What you need is someone who’s been through major transformations before — someone who can help you cut through the noise, make smart decisions, and move fast on what matters most.
 
-## Exceptional Experience
+For over 50 years, I’ve supported leaders from the shop floor to the boardroom, helping them find clarity when the world seemed to be shifting under their feet.
 
-Over my 50-year journey, I've worked alongside everyone from solo entrepreneurs to FTSE 100 executives and leaders at World Top 10 Banks. Whether I was running the operation or working as part of the team, I've tried to learn from every person and every situation. That breadth of experience helps me quickly see patterns and connections that others often miss.
+Now, I help people like you turn AI from a threat into a tailwind.
 
-## Take the Fast Track
+## Start With Perspective — Not Panic  
 
-While others drill deep into single disciplines, I take the broader view - understanding how your business strategy, technology systems, and people dynamics either reinforce each other or work at cross-purposes. That's where the biggest opportunities usually hide.
+You already have strengths, experience, and insights that AI can’t replace. The real question is: how do you build on them, not bury them?
+
+With the right support, you can quickly identify where your unique value meets the new reality — and build a clear, actionable plan to move forward with confidence.
+
+## You’re Closer Than You Think  
+
+This isn’t about hype or theory. It’s about practical steps that unlock real progress — fast.
+
+Whether you're rethinking your career, retooling your business, or simply trying to stay ahead of the curve, there's a path that works for you. My role is to help you find it, fast.
 
 ## Trusted by Leaders Across Industries
 
@@ -32,6 +46,6 @@ While others drill deep into single disciplines, I take the broader view - under
 
 *All trademarks used are the property of their respective owners, and their use here does not imply endorsement.*
 
-## Ready for a Confidential Conversation?
+## Ready to See What Others Miss?
 
-**All conversations are completely confidential. No obligation, no pressure - just an experienced business professional offering a different viewpoint.**
+**Click below to learn more about how you can make AI work for you — not against you. No pressure. Just clarity.**

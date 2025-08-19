@@ -45,7 +45,7 @@ async function sendWebhookData(webhookUrl, data, actionType) {
         
         if (response.ok) {
             if (actionType === 'online review') {
-                alert('Great! You\'ll be redirected to the online review shortly.');
+                alert('Great! Click (OK) to be redirected to the online review page.');
                 // Optional: redirect to external review platform
                 window.open('https://jeweled-brownie-6c3.notion.site/1b673dcb8ea680aa928cffd9e57236de', '_blank');
             } else {
